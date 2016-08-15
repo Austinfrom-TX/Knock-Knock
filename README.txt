@@ -1,3 +1,3 @@
-"Hello World!"
-"Knock Knock"
-"Who's there?"
+Hello World!
+Knock Knock
+Who's there?
